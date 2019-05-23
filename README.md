@@ -14,11 +14,11 @@ sac database can be created from scripts in [sac.sql](sac.sql) or by importing [
 - Security
 
 ### Pages
-Voter login page
-Officer login page
-Voter home page
-Officer's page
-Contestant modification page
+Voter login page\
+Officer login page\
+Voter home page\
+Officer's page\
+Contestant modification page\
 Post modification page
 
 #### To-Do
